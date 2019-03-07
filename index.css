@@ -1,25 +1,38 @@
 div {
-  color: red;
-  margin: 10px;
+  color: brown;
+  font-size: 20px;
+  /* margin-left: 600px;
+  margin-right: 600px; */
 }
+
 h3 {
-  color: blue;
-  margin: 10px;
+  color:brown;
+  /* margin-left: 600px;
+  margin-right: 600px; */
 }
 
 option {
   color: blue;
 }
 body {
-  background-color: aquamarine;
+  background-color: lightsalmon;
 }
 select {
   margin: 10px;
+  /* margin-left: 600px;
+  margin-right: 600px; */
+  font-size: 20px;
 }
 h1 {
-    font-size: 50px;
-  border: solid red;
-  color: blue;
-  background-color: black;
+  font-size: 50px;
+  border: solid brown;
+  color: brown;
+  background-color: wheat;
   text-align: center;
+}
+#dec {
+  border: 3px solid brown;
+  margin: auto;
+  text-align: center;
+  background-color: wheat
 }
